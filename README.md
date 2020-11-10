@@ -23,6 +23,9 @@ Design and implement a set of tests that that run [CWL v1.2][cwl-1.2]
 > a [pull request][pr-s3] already exists in the upstream [`cwl-tes`][cwl-tes]
 > repository.
 
+Testing with Python 3.7 and the included ``requirements.txt`` with the "required" set of CWL v1.0 conformance tests against the TESK instance at a CSC hosted TESK instance.
+> 39 tests passed, 11 failures, 0 unsupported features
+
 [cwl-1.2]: <https://github.com/common-workflow-language/cwl-v1.2/>
 [cwl-conformance-tests]: <https://github.com/common-workflow-language/cwl-v1.2/blob/main/CONFORMANCE_TESTS.md>
 [cwl-tes]: <https://github.com/ohsu-comp-bio/cwl-tes>
